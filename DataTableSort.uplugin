@@ -3,7 +3,7 @@
   "Version": 1,
   "VersionName": "1.0.0",
   "FriendlyName": "DataTable Sort",
-  "Description": "Sort Unreal Engine DataTable rows by column from Blueprints.",
+  "Description": "Sort Unreal Engine DataTable rows by any supported column directly from Blueprints.",
   "Category": "Blueprint",
   "CreatedBy": "Lexikonn",
   "CanContainContent": false,
@@ -15,5 +15,12 @@
       "Type": "Runtime",
       "LoadingPhase": "Default"
     }
-  ]
+  ],
+  "CreatedByURL": "https://github.com/LexikonnX",
+  "DocsURL": "https://github.com/LexikonnX/DataTableSort#readme",
+  "MarketplaceURL": "",
+  "SupportURL": "https://github.com/LexikonnX/DataTableSort/issues",
+  "EditorCustomVirtualPath": "",
+  "EnabledByDefault": false,
+  "ExplicitlyLoaded": false
 }
