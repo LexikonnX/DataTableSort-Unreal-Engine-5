@@ -54,8 +54,7 @@ Set MonsterRows
 
 A `Threat` column containing the values `1, 4, 2, 5` produces the row name order `5, 4, 2, 1` by threat value. Items with the same threat level are ordered by their row ID from A to Z.
 
-![Blueprint](https://i.imgur.com/dTDQOJR.png)
-
+![Blueprint](https://i.imgur.com/Higsh40.png) 
 ### Other examples
 
 | Column Name | Descending | Effect |
