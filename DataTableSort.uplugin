@@ -5,7 +5,7 @@
   "FriendlyName": "DataTable Sort",
   "Description": "Sort Unreal Engine DataTable rows by column from Blueprints.",
   "Category": "Blueprint",
-  "CreatedBy": "LexikonnX",
+  "CreatedBy": "Lexikonn",
   "CanContainContent": false,
   "IsBetaVersion": false,
   "Installed": false,
