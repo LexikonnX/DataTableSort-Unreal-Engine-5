@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "DataTable Sort",
+  "Description": "Sort Unreal Engine DataTable rows by column from Blueprints.",
+  "Category": "Blueprint",
+  "CreatedBy": "LexikonnX",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "DataTableSort",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
