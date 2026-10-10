@@ -19,7 +19,7 @@ Instead of sorting by the row names themselves, sort by properties such as `Thre
 
 ## Installation
 
-1. Download this repository using **Code → Download ZIP**.
+1. [Download this repository](https://github.com/LexikonnX/DataTableSort-Unreal-Engine-5/releases/tag/latest).
 2. Extract its contents into `<YourProject>/Plugins/DataTableSort/`. The `DataTableSort.uplugin` file must end up directly inside that folder.
 3. Open your Unreal Engine project. Enable **DataTable Sort** under **Edit → Plugins**, if it is not already enabled.
 4. If Unreal asks to compile the plugin, build the project with a compatible C++ toolchain (e.g. Visual Studio 2022 on Windows).
@@ -55,6 +55,8 @@ Set MonsterRows
 ```
 
 A `Threat` column containing the values `1, 4, 2, 5` produces the row name order `5, 4, 2, 1` by threat value. Items with the same threat level are ordered by their row ID from A to Z.
+
+![Blueprint](https://i.imgur.com/Higsh40.png)
 
 ### Other examples
 
